@@ -12,9 +12,9 @@ I’m focused on improving my coding skills step by step and open to opportuniti
 - 😄 Pronouns: - She/Her 
 ---
 # 📱Technologies & Tools
-###Languages
+### Languages
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-###Tools
+### Tools
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
